@@ -1,0 +1,8 @@
+{
+    "name": "iljas/test-task",
+    "description": "Test task for enot.io",
+    "type": "project",
+    "require": {
+        "imangazaliev/didom": "^1.15"
+    }
+}
